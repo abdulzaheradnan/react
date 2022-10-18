@@ -1,0 +1,64 @@
+css html hard question
+14.	What is the higher and lower properties considered?
+13.	What is the default properties order browser follows while applying CSS to elements?
+15.	How do you over write default property order?
+19.	How do you maintain space between or with in  DOM element?
+124. What are the new features introduced under HTML5?
+ans>Video and Audio Features 
+Header and Footer
+Input tag kinds have been expanded.
+Figure and figcaption
+Placeholders 
+Preload Videos 
+Controlling the display
+Regular Expressions 
+Adaptability
+Elements that appear inline
+Support for Dynamic Pages
+Email as a property
+Cryptographic Nonces
+Reverse Links 
+Images with a width of zero
+Canvas in HTML5 
+125. What are the new set of semantic tags in HTML5?
+ans><article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+>How do we create a Page which works according to the end user system browser 
+specific and operating system specific?
+>129. How do we get the current using location without using any maps API?
+what is flex container
+ans>Flexbox layout model provides an efficient and dynamic arrangement of elements by placing them inside a container with equally distributed space. This layout makes elements responsive which means that the elements change their behavior according to the kind of device displaying them. It consists of two components which are, flex container and flex items. However, here we will only emphasize flex containers. Subjects discussed are.
+
+>css different option animation provide;
+ans>@keyframes
+animation-name
+animation-duration
+animation-delay
+animation-iteration-count
+animation-direction
+animation-timing-function
+animation-fill-mode
+animation
+
+>135. What possible values a transform property takes?
+ans>matrix,translate,rotate,skew,scale
+
+>what is responsiveness how do we achive it 
+ans>Set Appropriate Responsive Breakpoints.
+Start with a Fluid Grid.
+Take touchscreens into consideration.
+Define Typography.
+Use a pre-designed theme or layout to save time.
+Test Responsiveness on Real Devices.
